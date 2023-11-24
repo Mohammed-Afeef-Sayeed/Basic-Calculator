@@ -1,2 +1,3 @@
-# LGMVIP-Web-Task-4
-Calculator
+# Basic Calculator
+
+A calculator is used for all the arithmetic calculations
